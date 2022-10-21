@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivee Jintalan</h1>
+<h1 align="center">Hi 👋, I'm Ivee</h1>
 <h3 align="center">A Software Developer from 🇵🇭</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blank-183&label=Profile%20views&color=0e75b6&style=flat" alt="blank-183" /> </p>
