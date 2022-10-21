@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blank-183" alt="blank-183" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Framework**
-
 - 📫 How to reach me **iveelozano.jintalan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
