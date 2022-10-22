@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ivee</h1>
-<h3 align="center">A Software Developer from 🇵🇭</h3>
+<h1 align="center">Hi, I'm Ivee! 😄👋</h1>
+<h3 align="center">Software Developer from 🇵🇭 <img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/PH%402x.png" width="21" height="15" style="max-width: 100%;"></h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blank-183&label=Profile%20views&color=0e75b6&style=flat" alt="blank-183" /> </p>
 
