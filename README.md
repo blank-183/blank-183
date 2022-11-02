@@ -19,7 +19,7 @@ I'm a recent BS Computer Science graduate with a strong interest in software dev
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blank-183&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=blank-183&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=blank-183&theme=flat&margin-w=7&margin-h=7&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
