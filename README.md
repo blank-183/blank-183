@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ivee! 😄👋</h1>
-<h3 align="center">Software Developer from 🇵🇭 <img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/PH%402x.png" width="21" height="15" style="max-width: 100%;"></h3>
+<h3 align="center">Software Developer from Bicol, Philippines<img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/PH%402x.png" width="21" height="15" style="max-width: 100%;"></h3>
 
 # 💫 About Me:
 I'm a recent BS Computer Science graduate with a strong interest in software development. A problem solver who is open to new ideas and enjoys collaborating with others. I have a background in backend development and proficient in a variety of modern technologies such as Java, Python, and SQL.
