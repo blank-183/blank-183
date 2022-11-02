@@ -19,9 +19,6 @@ I'm a recent BS Computer Science graduate with a strong interest in software dev
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=blank-183&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=blank-183&icon=2&color=12)](https://visitcount.itsvg.in)
 
