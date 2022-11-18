@@ -2,8 +2,6 @@
 <h3 align="center">Software Developer from Bicol, Philippines<img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/PH%402x.png" width="21" height="15" style="max-width: 100%;"></h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Spring framework
-<br>
 :file_folder: Check out my <a href="https://web-portfolio-blank-183.vercel.app/" target="_blank">web portfolio</a>
 
 ## 🌐 Socials:
