@@ -1,5 +1,5 @@
 # **Ivee Jintalan**
-I am a **Computer Science** graduate from the **Philippines** passionate about **Software Development**.
+I am a graduate of **Computer Science** from the **Philippines** who is passionate about **software development**.
 
 - 🔭 I’m currently working on [Inventory Management System](https://github.com/blank-183/inventory-system).
 
