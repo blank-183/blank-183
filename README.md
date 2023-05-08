@@ -5,10 +5,6 @@ I am a graduate of **Computer Science** from the **Philippines** who is passiona
 
 - 🌱 I’m currently learning **Java**.
 
-- 📫 Email me at: **iveelozano.jintalan@gmail.com**
-
-- ⚡ I am a Linux User **Pop!_OS ftw**.
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blank-183&show_icons=true&locale=en" alt="blank-183" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blank-183&" alt="blank-183" /></p>
 
